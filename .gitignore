@@ -4,16 +4,3 @@
 visuals.py
 utils.py
 
-2 * 
-3.1 *
-4 *
-5 * 
-
-images/Perceptron/
-images/model-evaluation/
-
-datasets/bmi_and_life_expectancy.csv
-datasets/perceptron_data.csv
-datasets/titanic_data.csv
-datasets/Default.csv
-datasets/model_evaluation/
