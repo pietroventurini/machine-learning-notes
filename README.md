@@ -5,7 +5,7 @@ In this repo I will add notebooks with notes and exercises on machine learning w
 
 ## Contents
 1. [Concept Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/1%20-%20Concept%20Learning.ipynb)
-2. ~Metrics evaluation~
+2. [Model evaluation and validation](https://github.com/pietroventurini/machine-learning-notes/blob/master/2%20-%20Model%20evaluation%20and%20validation.ipynb)
 3. [Decision tree learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/3%20-%20Decision%20Trees.ipynb)
 4. ~Perceptron algorithm and Adaptive linear neurons~
 5. ~Logistic Regression~
