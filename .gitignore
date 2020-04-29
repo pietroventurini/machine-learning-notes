@@ -8,9 +8,7 @@ utils.py
 4 *
 5 * 
 
-images/Perceptron/
 
 datasets/bmi_and_life_expectancy.csv
-datasets/perceptron_data.csv
 datasets/titanic_data.csv
 datasets/Default.csv
