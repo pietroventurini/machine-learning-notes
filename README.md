@@ -10,7 +10,7 @@ In this repo I will add notebooks with notes and exercises on machine learning w
 2. [Metrics evaluation](https://github.com/pietroventurini/machine-learning-notes/blob/beta/2%20-%20Model%20evaluation%20and%20validation.ipynb)
 3. [Decision tree learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/3%20-%20Decision%20Trees.ipynb)  
     3.1 Project: [Heart disease prediction with Decision Trees](https://github.com/pietroventurini/machine-learning-notes/blob/beta/3.1%20-%20Heart%20disease%20prediction%20with%20Decision%20Trees.ipynb)
-4. [Perceptron algorithm and Adaptive linear neurons](https://github.com/pietroventurini/machine-learning-notes/blob/beta/4%20-%20Supervised%20Learning.ipynb)
+4. [Linear Regression and Regularization](https://github.com/pietroventurini/machine-learning-notes/blob/beta/4%20-%20Supervised%20Learning.ipynb)
 5. [Logistic Regression](https://github.com/pietroventurini/machine-learning-notes/blob/beta/5%20-%20Logistic%20Regression.ipynb)
 6. [Introduction to Neural Networks and Deep Learning](https://github.com/pietroventurini/machine-learning-notes/blob/beta/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
     6.1 [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/beta/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)
