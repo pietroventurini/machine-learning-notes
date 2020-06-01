@@ -15,6 +15,7 @@ In this repo I will add notebooks with notes and exercises on machine learning w
 5. [Logistic Regression](https://github.com/pietroventurini/machine-learning-notes/blob/beta/5%20-%20Logistic%20Regression.ipynb)
 6. [Introduction to Neural Networks and Deep Learning](https://github.com/pietroventurini/machine-learning-notes/blob/beta/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
     6.1 [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/beta/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)
+7. [Bayesian Learning](https://github.com/pietroventurini/machine-learning-notes/blob/beta/7%20-%20Bayesian%20learning.ipynb)
 
 
 ## Resources
