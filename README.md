@@ -1,6 +1,8 @@
 # Machine Learning Notes and Exercises
 In this repo I will add notebooks with notes and exercises on machine learning written in Python.
 
+**Note:** as soon as I make this repository public, all the images will be properly visualized (both in Github and in Colab). For the moment, I suggest to clone this repository and to run the notebooks locally using Jupyer. Check the `Beta` branch for more notebooks.
+
 **Visualization:** I highly recommend to view these notebooks online, using [Google Colab](https://colab.research.google.com), or locally, using [Jupyer Lab](https://jupyter.org/), for two main reasons: you can modify python snippets as you wish and LaTeX formulas will get visualized properly. I will work on this problem, adapting all the notebooks to Colab, as soon as I finish to write them.
 
 **Important:** WORK IN PROGRESS, notes can contain mistakes. Furthermore, I am not a native english speaker. Please, forgive me for any errors.
