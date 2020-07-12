@@ -1,7 +1,7 @@
 # Machine Learning Notes and Exercises
 In this repo I will add notebooks with notes and exercises on machine learning written in Python.
 
-**Note:** as soon as I make this repository public, all the images will be properly visualized (both in Github and in Colab). For the moment, I suggest to clone this repository and to run the notebooks locally using Jupyer. Check the `Beta` branch for more notebooks.
+**Note:** as soon as I make this repository public, all the images will be properly visualized (both in Github and in Colab). For the moment, I suggest to clone this repository and to run the notebooks locally using Juptyer. Check the `Beta` branch for more notebooks.
 
 **Visualization:** I highly recommend to view these notebooks online, using [Google Colab](https://colab.research.google.com), or locally, using [Jupyer Lab](https://jupyter.org/), for two main reasons: you can modify python snippets as you wish and LaTeX formulas will get visualized properly. I will work on this problem, adapting all the notebooks to Colab, as soon as I finish to write them.
 
@@ -15,6 +15,8 @@ In this repo I will add notebooks with notes and exercises on machine learning w
 5. ~Logistic Regression~
 6. [Introduction to Neural Networks and Deep Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
     6.1 [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/master/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)
+7. [Bayesian Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/7%20-%20Bayesian%20learning.ipynb)
+8. [Support Vector Machines](https://github.com/pietroventurini/machine-learning-notes/blob/master/8%20-%20Support%20Vector%20Machines.ipynb)
 
 
 
