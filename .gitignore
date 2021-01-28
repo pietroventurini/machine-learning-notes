@@ -2,13 +2,8 @@
 .ipynb_checkpoints/
 
 visuals.py
-utils.py
 
-3.1 *
-4 *
-5 * 
 
 
 datasets/bmi_and_life_expectancy.csv
 datasets/titanic_data.csv
-datasets/Default.csv
