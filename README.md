@@ -11,20 +11,20 @@ In this repo I will add notebooks with notes and exercises on machine learning w
 1. [Concept Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/1%20-%20Concept%20Learning.ipynb)
 2. [Model evaluation and validation](https://github.com/pietroventurini/machine-learning-notes/blob/master/2%20-%20Model%20evaluation%20and%20validation.ipynb)
 3. [Decision tree learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/3%20-%20Decision%20Trees.ipynb)
-4. ~Linear Regression~
-5. ~Logistic Regression~
+4. [Regularization in supervised learning models](https://github.com/pietroventurini/machine-learning-notes/blob/master/4%20-%20Regularization%20in%20supervised%20learning%20models.ipynb)
+5. [Logistic Regression](https://github.com/pietroventurini/machine-learning-notes/blob/master/5%20-%20Logistic%20Regression.ipynb)
 6. [Introduction to Neural Networks and Deep Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
     6.1 [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/master/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)
 7. [Bayesian Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/7%20-%20Bayesian%20learning.ipynb)
 8. [Support Vector Machines](https://github.com/pietroventurini/machine-learning-notes/blob/master/8%20-%20Support%20Vector%20Machines.ipynb)
 
-
-
 ## Resources
-- [Machine Learning - Tom Mitchell - McGraw Hill, 1997](https://www.cs.cmu.edu/~tom/mlbook.html) (Theoretical)
-- [An Introduction to Statistical Learning - James G., Witten D., Hastie T., Tibshirani R. - Springer](https://www.springer.com/gp/book/9781461471370) (Both theoretical and practical)
-- [Python Machine Learning, 3rd edition - Sebastian Raschka, Vahid Mirjalili - Packt Publishing Ltd.](https://www.packtpub.com/data/python-machine-learning-third-edition) (Practical oriented)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow, 2nd edition - Aurélien Géron - O'Reilly, 2019](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Practical oriented)
+- [Python Machine Learning, 3rd edition - Sebastian Raschka, Vahid Mirjalili - Packt Publishing Ltd.](https://www.packtpub.com/data/python-machine-learning-third-edition) (Practical oriented)
+- [An Introduction to Statistical Learning - James G., Witten D., Hastie T., Tibshirani R. - Springer](https://www.springer.com/gp/book/9781461471370) (Both theoretical and practical)
+- [Pattern Recognition and Machine Learning - Christopher Bishop - Springer, 2006](https://www.springer.com/gp/book/9780387310732) (Theoretical)
+- [The Elements of Statistical Learning, 2nd edition - Hastie, Tibshirani, Friedman, Springer, 2009](https://www.springer.com/gp/book/9780387848570) (Theoretical)
+- [Machine Learning - Tom Mitchell - McGraw Hill, 1997](https://www.cs.cmu.edu/~tom/mlbook.html) (Theoretical)
 - [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) (Online course)
 - [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Online course)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville - MIT Press, 2016](https://www.deeplearningbook.org) (Theoretical)
