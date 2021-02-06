@@ -17,6 +17,7 @@ In this repo I will add notebooks with notes and exercises on machine learning w
     6.1 [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/master/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)
 7. [Bayesian Learning](https://github.com/pietroventurini/machine-learning-notes/blob/master/7%20-%20Bayesian%20learning.ipynb)
 8. [Support Vector Machines](https://github.com/pietroventurini/machine-learning-notes/blob/master/8%20-%20Support%20Vector%20Machines.ipynb)
+9. [Cluster Analysis](https://github.com/pietroventurini/machine-learning-notes/blob/master/9%20-%20Cluster%20Analysis.ipynb)
 
 ## Resources
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow, 2nd edition - Aurélien Géron - O'Reilly, 2019](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) (Practical oriented)
