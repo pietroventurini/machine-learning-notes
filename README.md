@@ -8,18 +8,18 @@ I created this collection of notebooks while I was studying for the machine lear
 
 ## Contents
 
-1. [Concept Learning](https://github.com/pietroventurini/machine-learning-notes/blob/main/1%20-%20Concept%20Learning.ipynb)
-2. [Model evaluation and validation](https://github.com/pietroventurini/machine-learning-notes/blob/main/2%20-%20Model%20evaluation%20and%20validation.ipynb)  
-    2.1. [Data Analysis](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/2.1%20-%20Data%20Analysis.ipynb)
-3. [Decision tree learning](https://github.com/pietroventurini/machine-learning-notes/blob/main/3%20-%20Decision%20Trees.ipynb)
-4. [Regularization in supervised learning models](https://github.com/pietroventurini/machine-learning-notes/blob/main/4%20-%20Regularization%20in%20supervised%20learning%20models.ipynb)
-5. [Logistic Regression](https://github.com/pietroventurini/machine-learning-notes/blob/main/5%20-%20Logistic%20Regression.ipynb)
-6. [Introduction to Neural Networks and Deep Learning](https://github.com/pietroventurini/machine-learning-notes/blob/main/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
-    6.1. [Feedforward Neural Networks](https://github.com/pietroventurini/machine-learning-notes/blob/main/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)  
-    6.2. [Optimization Algorithms](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/6.2%20-%20Optimization%20Algorithms.ipynb)
-7. [Bayesian Learning](https://github.com/pietroventurini/machine-learning-notes/blob/main/7%20-%20Bayesian%20learning.ipynb)
-8. [Support Vector Machines](https://github.com/pietroventurini/machine-learning-notes/blob/main/8%20-%20Support%20Vector%20Machines.ipynb)
-9. [Cluster Analysis](https://github.com/pietroventurini/machine-learning-notes/blob/main/9%20-%20Cluster%20Analysis.ipynb)
+1. [Concept Learning 🔍](https://github.com/pietroventurini/machine-learning-notes/blob/main/1%20-%20Concept%20Learning.ipynb)
+2. [Model evaluation and validation 📈](https://github.com/pietroventurini/machine-learning-notes/blob/main/2%20-%20Model%20evaluation%20and%20validation.ipynb)  
+    2.1. [Data Analysis 📊](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/2.1%20-%20Data%20Analysis.ipynb)
+3. [Decision tree learning 🌳](https://github.com/pietroventurini/machine-learning-notes/blob/main/3%20-%20Decision%20Trees.ipynb)
+4. [Regularization in supervised learning models ⚖️](https://github.com/pietroventurini/machine-learning-notes/blob/main/4%20-%20Regularization%20in%20supervised%20learning%20models.ipynb)
+5. [Logistic Regression 🌺](https://github.com/pietroventurini/machine-learning-notes/blob/main/5%20-%20Logistic%20Regression.ipynb)
+6. [Introduction to Neural Networks and Deep Learning 🧠](https://github.com/pietroventurini/machine-learning-notes/blob/main/6%20-%20Introduction%20to%20Neural%20Networks%20and%20Deep%20Learning.ipynb)  
+    6.1. [Feedforward Neural Networks 🕸](https://github.com/pietroventurini/machine-learning-notes/blob/main/6.1%20-%20Feedforward%20Neural%20Networks.ipynb)  
+    6.2. [Optimization Algorithms 🎯](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/6.2%20-%20Optimization%20Algorithms.ipynb)
+7. [Bayesian Learning 🧞‍♂️](https://github.com/pietroventurini/machine-learning-notes/blob/main/7%20-%20Bayesian%20learning.ipynb)
+8. [Support Vector Machines 🛣](https://github.com/pietroventurini/machine-learning-notes/blob/main/8%20-%20Support%20Vector%20Machines.ipynb)
+9. [Cluster Analysis 🦠](https://github.com/pietroventurini/machine-learning-notes/blob/main/9%20-%20Cluster%20Analysis.ipynb)
 
 ## References
 
