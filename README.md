@@ -10,7 +10,7 @@ I created this collection of notebooks while I was studying for the machine lear
 
 1. [Concept Learning 🔍](https://github.com/pietroventurini/machine-learning-notes/blob/main/1%20-%20Concept%20Learning.ipynb)
 2. [Model evaluation and validation 📈](https://github.com/pietroventurini/machine-learning-notes/blob/main/2%20-%20Model%20evaluation%20and%20validation.ipynb)  
-    2.1. [Data Analysis 📊](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/2.1%20-%20Data%20Analysis.ipynb)
+    2.1. [Data Analysis & Feature Engineering 📊](https://colab.research.google.com/github/pietroventurini/machine-learning-notes/blob/main/2.1%20-%20Data%20Analysis.ipynb)
 3. [Decision tree learning 🌳](https://github.com/pietroventurini/machine-learning-notes/blob/main/3%20-%20Decision%20Trees.ipynb)
 4. [Regularization in supervised learning models ⚖️](https://github.com/pietroventurini/machine-learning-notes/blob/main/4%20-%20Regularization%20in%20supervised%20learning%20models.ipynb)
 5. [Logistic Regression 🌺](https://github.com/pietroventurini/machine-learning-notes/blob/main/5%20-%20Logistic%20Regression.ipynb)
