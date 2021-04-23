@@ -1,10 +1,10 @@
 # Machine Learning Notes and Exercises
 
+**Important:** WORK IN PROGRESS, notes can contain mistakes: I will appreciate any correction or suggestion. Furthermore, I am not a native english speaker. Please, forgive me for any mistake.
+
 I created this collection of notebooks while I was studying for the machine learning exam at my university. Initially, they were intended as notes for personal use, but as soon as I started falling in love with this subject, I started to delve deeper into the topics, reading lots of interesting books and extending my notes to the point I decided to share them with everyone, with the hope that they will be useful for other students. Some notebooks are more theoretical while others are more practical. The first notebook is about concept learning, and it is completely based on the Mitchell's book, which was the book adopted at my university (which, to be honest, I didn't like too much 🤷🏻‍♂️). In the references section, you can find all the resources I used. Some of them are easier and targeted to novices, while others delve deeper into the mathematics behind the algorithms.
 
 **Visualization:** I highly recommend to view these notebooks online, using [Google Colab](https://colab.research.google.com), or locally, using [Jupyer Lab](https://jupyter.org/), for two main reasons: you can run python snippets and LaTeX formulas will get visualized properly.
-
-**Important:** WORK IN PROGRESS, notes can contain mistakes: I will appreciate any correction or suggestion. Furthermore, I am not a native english speaker. Please, forgive me for any mistake.
 
 ## Contents
 
